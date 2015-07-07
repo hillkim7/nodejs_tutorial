@@ -8,6 +8,11 @@
   },
   "author": "Hill Kim",
   "dependencies": {
-    "express": "~4.8.8"
+    "express": "~4.8.8",
+    "morgan": "*",
+    "compression": "*",
+    "body-parser": "*",
+    "method-override": "*",
+    "ejs": "*"
   }
 }

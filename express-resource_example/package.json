@@ -6,7 +6,12 @@
     "start": "node app"
   },
   "dependencies": {
-    "express-resource": "*"
+    "express-resource": "*",
+    "morgan": "*",
+    "compression": "*",
+    "body-parser": "*",
+    "express-resource": "*",
+    "method-override": "*"
   }
 }
 
